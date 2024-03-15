@@ -102,3 +102,11 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+#Directiory
+.vs/
+bin/
+bin-int/
+
+#Files
+*.user
+
