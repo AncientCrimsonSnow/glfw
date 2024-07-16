@@ -58,7 +58,7 @@ filter "system:linux"
 
 filter "system:windows"
     systemversion "latest"
-    staticruntime "On"
+    staticruntime "on"
     
     -- buildoptions{
     --     "/MT"
